@@ -5,7 +5,6 @@
   - [ ] add simple example app
   - [ ] add simple resource app
 
-
 ### What is Rust?:
 
     - A statically-type, type-safe, memory-safe, data race free systems programming language that is nearly as fast C/C++.
@@ -58,5 +57,6 @@
 ### Demo Project:
 
   - show code generation
+  - setup simplest app
   - show simplest example (a pure function with scalar inputs (add/2?)) 
-  - show a stateful resource (`on_load`, `ArcResource`, `unwrapping`, Reference type in erlang)
+  - show a stateful resource (`on_load`, `ArcResource`, `unwrapping`, Reference type in erlang) (no code just show)
