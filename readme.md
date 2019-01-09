@@ -30,19 +30,27 @@
 
 ### How does a NIF work from the Elixir/Erlang side?:
 
-    - use Ruster
-    - define functions
-    - :erlang.nif_error/1
+  - use Ruster
+  - define functions
+  - :erlang.nif_error/1
+
+### Getting to know Rust:
+
+  - briefly explain ownership. Give resources to learn more.
+  - read this: `Env<'a>`
+  - read this: `NifResult<Term<'a>>`
 
 ### How does a NIF work from the native side?:
 
-    - explain `extern crate`s
-    - explain `rustler_atoms!`
-    - explain `rustler_export_nifs!`
-    - explain 
+  - explain `extern crate`s
+  - explain `rustler_atoms!`
+  - explain `rustler_export_nifs!`
+  - explain arg 0: `env: Env<'a>`
+  - explain arg 1: `args: &[Term<'a>]`
+  - explain return type `NifResult<Term<'a>>` 
 
 ### Demo Project:
 
-    - show code generation
-    - show simplest example (a pure function with scalar inputs (add/2?)) 
-    - show a stateful resource (`on_load`, `ArcResource`, `unwrapping`, Reference type in erlang)
+  - show code generation
+  - show simplest example (a pure function with scalar inputs (add/2?)) 
+  - show a stateful resource (`on_load`, `ArcResource`, `unwrapping`, Reference type in erlang)
