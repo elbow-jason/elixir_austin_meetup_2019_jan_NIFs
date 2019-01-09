@@ -1,5 +1,8 @@
 # NIFs in Rust (using Rustler)
 
+  - our favorite Rust NIF lib: [Rustler](https://github.com/hansihe/rustler)
+
+
 ## TODOs:
   - [ ] write steps for project setup
   - [ ] add simple example app
