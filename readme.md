@@ -71,3 +71,7 @@
   - setup simplest app
   - show simplest example (a pure function with scalar inputs (add/2?)) 
   - show a stateful resource (`on_load`, `ArcResource`, `unwrapping`, Reference type in erlang) (no code just show)
+
+### Other Important things
+  - explain [`SchedulerFlags`](https://github.com/hansihe/rustler/blob/b6578ea3999fd42f377c2497d8fae0bd629b927d/rustler/src/schedule.rs)
+    
