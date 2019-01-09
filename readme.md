@@ -13,6 +13,14 @@
   - Developed my Mozilla.
   - A community as beginner friendly as Elixir's.
 
+### Why do I, elbow-jason, use Rust in Elixir:
+  - I have yet to crash out of (exit) the VM.
+  - Memory safety in C/C++ is _really_ difficult.
+  - I knew Rust before Elixir.
+  - Despite some rough patches I _actually_ like Rust now (I used to dislike Rust).
+  - I needed efficient mutable matices and Elixir does not have them.
+  - Rustler has solved most of the hard problems for me.
+
 ### Why Rust for Elixir:
 
   - Rustler, a lib for building Rust NIFs, is an amazing tool.
