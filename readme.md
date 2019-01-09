@@ -1,5 +1,11 @@
 # NIFs in Rust (using Rustler)
 
+## TODOs:
+  - [ ] write steps for project setup
+  - [ ] add simple example app
+  - [ ] add simple resource app
+
+
 ### What is Rust?:
 
     - A statically-type, type-safe, memory-safe, data race free systems programming language that is nearly as fast C/C++.
