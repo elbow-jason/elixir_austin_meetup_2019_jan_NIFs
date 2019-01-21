@@ -51,8 +51,8 @@
 
   8) Run `iex -S mix`. There should be no Elixir warnings and _maybe_ one Rust warning.
 
-  9 You should be able to enter:
-  
+  9) You should be able to enter:
+
   ```
   iex(1)> SimpleRustNif.Native.add(1, 2)
   {:ok, 3}
