@@ -23,3 +23,4 @@ erl_crash.dump
 resource_nif-*.tar
 
 .elixir_ls/
+.elixir_ls/*
