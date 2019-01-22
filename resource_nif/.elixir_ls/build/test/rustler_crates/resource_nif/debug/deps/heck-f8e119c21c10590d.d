@@ -1,0 +1,11 @@
+/Users/elbow-jason/Prospace/dockyard/austin_elixir_meetup_2019_01/resource_nif/.elixir_ls/build/test/rustler_crates/resource_nif/debug/deps/libheck-f8e119c21c10590d.rlib: /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/Users/elbow-jason/Prospace/dockyard/austin_elixir_meetup_2019_01/resource_nif/.elixir_ls/build/test/rustler_crates/resource_nif/debug/deps/heck-f8e119c21c10590d.d: /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs:

@@ -1,0 +1,8 @@
+/Users/elbow-jason/Prospace/dockyard/austin_elixir_meetup_2019_01/resource_nif/.elixir_ls/build/test/rustler_crates/resource_nif/debug/deps/libunicode_segmentation-84f99d999d4f1c9a.rlib: /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/lib.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/grapheme.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/tables.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/word.rs
+
+/Users/elbow-jason/Prospace/dockyard/austin_elixir_meetup_2019_01/resource_nif/.elixir_ls/build/test/rustler_crates/resource_nif/debug/deps/unicode_segmentation-84f99d999d4f1c9a.d: /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/lib.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/grapheme.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/tables.rs /Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/word.rs
+
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/lib.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/grapheme.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/tables.rs:
+/Users/elbow-jason/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.2.1/src/word.rs:
